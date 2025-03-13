@@ -85,7 +85,7 @@ footer a:hover{text-decoration: underline;}
 		<button class="notionBtn" onclick="window.location.href='https://www.notion.so/Hi-I-m-hayeon-1b492164a6e680f69f80f37b25d55e1d?pvs=4';">노션으로 이동</button>
 	</div>
 	<div class="main-Repositories">
-		<img alt="" src="../img/logo-git.png" width="100px" height="100px">
+		<img alt="" src="https://github.com/hayeon1113/hayeon-s-blog/issues/1#issue-2915851049" width="100px" height="100px">
 		<p>Repositories</p>
 		<p>깃허브 개인 저장소입니다.<br/>프로젝트 코드들이 저장되어있습니다.</p>
 		<button class="gitBtn" onclick="window.location.href='https://github.com/hayeon1113';">깃 허브로 이동</button>
