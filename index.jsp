@@ -72,14 +72,14 @@ footer a:hover{text-decoration: underline;}
 </div>
 <div id="mainContent">
 	<div class="main-About">
-		<img alt="" src="../img/logo-instagram.png" width="100px" height="100px">
+		<img alt="" src="https://github.com/hayeon1113/hayeon-s-blog/issues/3#issue-2915852887" width="100px" height="100px">
 		<p>About</p>
 		<p>개인적인 일상입니다.<br/>여행,취미 등 일상들이 기록되어있습니다.</p>
         <button class="instaBtn" onclick="window.location.href='https://www.instagram.com/hha_yeon__/?hl=ko';">인스타그램으로 이동</button>
     </a>
 	</div>
 	<div class="main-Resume">
-		<img alt="" src="../img/logo-notion.png" width="100px" height="100px">
+		<img alt="" src="https://github.com/hayeon1113/hayeon-s-blog/issues/2#issue-2915852579" width="100px" height="100px">
 		<p>Resume</p>
 		<p>노션으로 정리한 이력서입니다.<br/>경력에 관한 부분이 정리되어있습니다.</p>
 		<button class="notionBtn" onclick="window.location.href='https://www.notion.so/Hi-I-m-hayeon-1b492164a6e680f69f80f37b25d55e1d?pvs=4';">노션으로 이동</button>
@@ -95,15 +95,15 @@ footer a:hover{text-decoration: underline;}
 	<div id="footText">
 		<p>Follow:  
 		    <span class="social-item">
-		        <img alt="" src="../img/logo-git.png" width="10px" height="10px">
+		        <img alt="" src="https://github.com/hayeon1113/hayeon-s-blog/issues/1#issue-2915851049" width="10px" height="10px">
 		        <a href="#"> GitHub </a>
 		    </span>
 		    <span class="social-item">
-		        <img alt="" src="../img/logo-instagram.png" width="10px" height="10px">
+		        <img alt="" src="https://github.com/hayeon1113/hayeon-s-blog/issues/3#issue-2915852887" width="10px" height="10px">
 		        <a href="#"> Instagram </a>
 		    </span>
 		    <span class="social-item">
-		        <img alt="" src="../img/logo-notion.png" width="10px" height="10px">
+		        <img alt="" src="https://github.com/hayeon1113/hayeon-s-blog/issues/2#issue-2915852579" width="10px" height="10px">
 		        <a href="#"> Notion</a>
 		    </span>
 		</p>	
